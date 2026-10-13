@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="F-DnX3JvHUGemRL8evuh">
+    <mxGraphModel dx="1110" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="開始" vertex="1">
+          <mxGeometry height="80" width="210" x="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="円と円弧の座標と半径をすべて配列に入れる" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="同じ円と円弧の座標をまとめる" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="同心円ではないものに対して、止め穴・通し穴か判定" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ザグリか判定(順序保留)" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="タップ穴か判定(順序保留)" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="テーパー穴・皿穴判定" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-10" edge="1" parent="1" source="W9Rj9VE8g854NZbk6SWj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="W9Rj9VE8g854NZbk6SWj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
