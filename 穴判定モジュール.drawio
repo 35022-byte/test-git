@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="F-DnX3JvHUGemRL8evuh">
+    <mxGraphModel dx="1128" dy="951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-14" edge="1" parent="1" source="P5xSI-hZXJiCXZ1vkKal-13" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="W9Rj9VE8g854NZbk6SWj-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="550" as="sourcePoint" />
+            <mxPoint x="330" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9Rj9VE8g854NZbk6SWj-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="開始" vertex="1">
+          <mxGeometry height="60" width="210" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="円・円弧判定モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-2" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="配列整列モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-3" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="通し穴・貫通穴判定モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-4" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="ザグリ穴判定モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-5" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="タップ穴判定モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="45" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-6" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="テーパー加工・皿穴判定&lt;div&gt;モジュール&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="50" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-8" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="長穴判定モジュール" vertex="1">
+          <mxGeometry height="60" width="220" x="50" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-11" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="引出線読み取り&lt;br&gt;&lt;div&gt;モジュール&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="50" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xSI-hZXJiCXZ1vkKal-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="終了" vertex="1">
+          <mxGeometry height="60" width="210" x="50" y="1020" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
